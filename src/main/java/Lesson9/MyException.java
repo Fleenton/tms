@@ -1,4 +1,4 @@
-package Lesson9.car;
+package Lesson9;
 
 public class MyException extends Exception {
 }

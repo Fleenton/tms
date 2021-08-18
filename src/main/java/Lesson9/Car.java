@@ -1,4 +1,4 @@
-package Lesson9.car;
+package Lesson9;
 
 import java.util.Random;
 
